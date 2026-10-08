@@ -37,18 +37,19 @@ and solving real-world problems through technology.
 
 ## 🚀 Featured Projects
 
-### 💬 WhatsApp Clone | Web Development
 
-A WhatsApp-inspired messaging application that I'm building
-to strengthen my frontend development and software
-engineering skills.
+## 🚀 Featured Projects
 
-**Status:** In Progress
+### 💬 [WhatsApp Clone](https://github.com/arpitavasisht0210-bit/whatsappclone)
 
-[View Project](https://github.com/arpitavasisht0210-bit/whatsappclone)
+A WhatsApp-inspired messaging web application built using
+Bolt AI during a web development bootcamp.
 
----
+**Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Vite
 
+**Status:** Completed Bootcamp Project | Future Improvements Planned
+
+[View Source Code](https://github.com/arpitavasisht0210-bit/whatsappclone)
 
 
 ## 🏆 Achievements & Activities
