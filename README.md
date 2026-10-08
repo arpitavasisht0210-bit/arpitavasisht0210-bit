@@ -15,8 +15,6 @@ and solving real-world problems through technology.
 - 🧩 Practicing Data Structures & Algorithms
 - 🚀 Participating in hackathons and technical projects
 
-## 🛠️ Tech Stack
-
 
 ## 🛠️ Tech Stack
 
