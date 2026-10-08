@@ -37,9 +37,6 @@ and solving real-world problems through technology.
 
 ## 🚀 Featured Projects
 
-
-## 🚀 Featured Projects
-
 ### 💬 [WhatsApp Clone](https://github.com/arpitavasisht0210-bit/whatsappclone)
 
 A WhatsApp-inspired messaging web application built using
@@ -50,6 +47,37 @@ Bolt AI during a web development bootcamp.
 **Status:** Completed Bootcamp Project | Future Improvements Planned
 
 [View Source Code](https://github.com/arpitavasisht0210-bit/whatsappclone)
+
+
+## ✨ Features
+
+- WhatsApp-inspired chat interface
+- Text message composition and send controls
+- Separate styling for sent and received messages
+- Message timestamps and date separators
+- Automatic scrolling to recent messages
+- Contact avatars and online/offline indicators
+- Conversation selection and empty-chat interface
+- Login and signup page interfaces
+
+### Development Notes
+
+The project was initially generated using Bolt AI
+during a web development bootcamp.
+
+The chat interface currently includes mock-data
+references. Backend messaging, authentication,
+and persistent storage require further verification.
+
+### Planned Improvements
+
+- Explore real-time messaging with Supabase
+- Improve authentication and session handling
+- Add message delivery and read indicators
+- Support image and file attachments
+- Improve mobile responsiveness
+- Refactor AI-generated components independently
+
 
 
 ## 🏆 Achievements & Activities
