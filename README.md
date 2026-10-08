@@ -49,27 +49,6 @@ engineering skills.
 
 ---
 
-### ☕ Java Programming Fundamentals
-
-A collection of beginner-friendly Java programs focused
-on developing problem-solving and programming skills.
-
-**Topics:**
-- Loops and conditionals
-- Arrays and strings
-- Methods
-- Basic problem-solving
-
-**Status:** Learning & Building
-
----
-
-### 🌐 Web Development Projects
-
-A collection of beginner web development projects
-built using HTML, CSS, and JavaScript.
-
-**Status:** Learning & Building
 
 
 ## 🏆 Achievements & Activities
