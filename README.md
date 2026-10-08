@@ -37,46 +37,30 @@ and solving real-world problems through technology.
 
 ## 🚀 Featured Projects
 
-### 💬 [WhatsApp Clone](https://github.com/arpitavasisht0210-bit/whatsappclone)
+### 💬 WhatsApp Clone — Messaging Web Application
 
-A WhatsApp-inspired messaging web application built using
-Bolt AI during a web development bootcamp.
+A WhatsApp-inspired messaging application developed using Bolt AI during a web development bootcamp.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Vite
+**Technologies:** React, TypeScript, Tailwind CSS, Supabase, Vite
 
-**Status:** Completed Bootcamp Project | Future Improvements Planned
+**Features:**
+- User signup and login
+- Chat interface with conversation sidebar
+- Message sending and simulated replies
+- Online status indicators
+- Responsive user interface
 
-[View Source Code](https://github.com/arpitavasisht0210-bit/whatsappclone)
+**What I Learned:**
+- Understanding React component structure
+- Exploring AI-assisted software development
+- Working with modern web technologies
+- Understanding application architecture
+
+🔗 [View Project on GitHub](https://github.com/arpitavasisht0210-bit/whatsappclone)
+
+*Completed bootcamp project | Future improvements planned*
 
 
-## ✨ Features
-
-- WhatsApp-inspired chat interface
-- Text message composition and send controls
-- Separate styling for sent and received messages
-- Message timestamps and date separators
-- Automatic scrolling to recent messages
-- Contact avatars and online/offline indicators
-- Conversation selection and empty-chat interface
-- Login and signup page interfaces
-
-### Development Notes
-
-The project was initially generated using Bolt AI
-during a web development bootcamp.
-
-The chat interface currently includes mock-data
-references. Backend messaging, authentication,
-and persistent storage require further verification.
-
-### Planned Improvements
-
-- Explore real-time messaging with Supabase
-- Improve authentication and session handling
-- Add message delivery and read indicators
-- Support image and file attachments
-- Improve mobile responsiveness
-- Refactor AI-generated components independently
 
 
 
