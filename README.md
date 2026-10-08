@@ -1,10 +1,8 @@
 # Hi, I'm Arpita Vashisht 👋
 
-### B.Tech CS & AI Student | Aspiring Software Engineer
+I'm a first-year B.Tech Computer Science & Artificial Intelligence student and an aspiring Software Engineer, currently building my programming foundations through Java, web development, and hands-on projects.
 
-I'm a first-year Computer Science & Artificial Intelligence student
-passionate about building practical software, learning new technologies,
-and solving real-world problems through technology.
+I'm interested in software engineering internships where I can learn from experienced developers, contribute to real projects, and grow my technical skills.
 
 ## 🚀 Currently
 
@@ -35,41 +33,32 @@ and solving real-world problems through technology.
 - Python and AI/ML fundamentals
 - Git & GitHub
 
+
 ## 🚀 Featured Projects
 
-### 💬 WhatsApp Clone — Messaging Web Application
+### 💬 WhatsApp Clone | Messaging Web Application
 
-A WhatsApp-inspired messaging application developed using Bolt AI during a web development bootcamp.
+A WhatsApp-inspired frontend messaging simulator created using Bolt AI during a web development bootcamp.
 
-**Technologies:** React, TypeScript, Tailwind CSS, Supabase, Vite
+**Tech Stack:** React, TypeScript, Tailwind CSS, Vite
 
-**Features:**
-- User signup and login
-- Chat interface with conversation sidebar
-- Message sending and simulated replies
-- Online status indicators
-- Responsive user interface
+**Highlights:**
+- Interactive chat interface and conversation selection
+- Message sending with simulated replies
+- Message timestamps and unread indicators
+- Login and signup interface components
 
-**What I Learned:**
-- Understanding React component structure
-- Exploring AI-assisted software development
-- Working with modern web technologies
-- Understanding application architecture
+**What I Learned:** React component structure, frontend application architecture, and AI-assisted development.
 
-🔗 [View Project on GitHub](https://github.com/arpitavasisht0210-bit/whatsappclone)
-
-*Completed bootcamp project | Future improvements planned*
-
-
-
+🔗 [View Project & Screenshots](https://github.com/arpitavasisht0210-bit/whatsappclone)
 
 
 ## 🏆 Achievements & Activities
 
-- 🚀 Team Leader — Smart India Hackathon 2026
-- 🎓 B.Tech Computer Science & Artificial Intelligence Student
-- 💡 Member of Entrepreneurship & Technology Clubs
+- 🚀 Team Leader — Smart India Hackathon 2026; qualified through the internal selection round
+- 💡 Member — Entrepreneurship & Technology Clubs
 - 🌐 Completed web development and coding training
+
 
 ## 🌱 My Goal
 
